@@ -1,7 +1,9 @@
 ## Bike Shop Power BI Dashboard 
 
 ### Project Description:
-Welcome to the Bike Shop Power BI Dashboard! This dashboard is designed to empower data-driven decision-making for a bike shop by providing actionable insights into sales performance, customer behavior, and operational efficiency. The purpose of this project is to enable stakeholders to monitor critical business metrics such as revenue, product trends, and regional sales performance. Through detailed visualizations, users can analyze key performance indicators (KPIs), track order fulfillment, identify top-selling products, and optimize customer retention strategies. The dashboard ultimately helps to enhance business performance by aligning data insights with strategic goals.
+Welcome to the Bike Shop Power BI Dashboard! This dashboard is designed to empower data-driven decision-making for a bike shop by providing actionable insights into sales performance, customer behavior, and operational efficiency. The purpose of this project is to enable stakeholders to monitor critical business metrics such as revenue, product trends, and regional sales performance. Through detailed visualizations, users can analyze key performance indicators (KPIs), track order fulfillment, identify top-selling products, and optimize customer retention strategies. The dashboard ultimately helps to enhance business performance by aligning data insights with strategic goals. 
+
+There is a link to the dashboard at the bottom of the readme.
 
 ### Features:
 - **Regional Performance:** Compare sales and profitability across regions (e.g., North America, Europe, and Pacific) to identify high-performing areas and optimize sales strategies.
@@ -30,4 +32,5 @@ The project follows a comprehensive business intelligence workflow:
 ### Conclusion:
 The Bike Shop Power BI Dashboard serves as a powerful tool for business intelligence and supply chain management, allowing data-driven decision-making across various roles. By leveraging the detailed analysis provided, stakeholders can optimize operations, improve customer satisfaction, and increase profitability.
 
+### Dashboard Link:
 Feel free to explore the data, adjust filters, and gain insights that will empower the supply chain and business intelligence teams in the link below:
