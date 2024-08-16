@@ -3,7 +3,7 @@
 ### Project Description:
 Welcome to the Bike Shop Power BI Dashboard! This dashboard is designed to empower data-driven decision-making for a bike shop by providing actionable insights into sales performance, customer behavior, and operational efficiency. The purpose of this project is to enable stakeholders to monitor critical business metrics such as revenue, product trends, and regional sales performance. Through detailed visualizations, users can analyze key performance indicators (KPIs), track order fulfillment, identify top-selling products, and optimize customer retention strategies. The dashboard ultimately helps to enhance business performance by aligning data insights with strategic goals. 
 
-There is a link to the dashboard at the bottom of the readme.
+There is a link to the dashboard at the bottom of the project overview.
 
 ### Features:
 - **Regional Performance:** Compare sales and profitability across regions (e.g., North America, Europe, and Pacific) to identify high-performing areas and optimize sales strategies.
